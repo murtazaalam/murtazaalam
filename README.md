@@ -25,7 +25,7 @@ Strong in design and integration with intuitive problem-solving skills. Proficie
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/Tanudevloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/murtazaalam/count.svg)
 
 Languages and Tools:
 
