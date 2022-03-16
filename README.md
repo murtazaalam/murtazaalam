@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Md Murtuza Alam 👋</h1>
-<h3 align = "center">FULL STACK DEVELPOMENT INTERNSHIP EDUREKA</h3>
+<h3 align = "center">Software Developer in Techvanto Academy</h3>
 
 <a href="https://www.linkedin.com/in/murtuzaalam9/">
   <img align="left" alt="Murtuza Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
